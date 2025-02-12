@@ -6,7 +6,7 @@ Interface escura.
 Com animações ao rolar.
 Desenvolvido primeiro com a metodologia Mobile First, depois para desktop.
 Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
-Entre no canal para ver mais vídeos como esse. Bedimcode
+
 
 link: file:///C:/Users/USER/Desktop/estudos/projetos/responsive-landing-page-headphones/index.html#products
  
