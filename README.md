@@ -8,7 +8,7 @@ Desenvolvido primeiro com a metodologia Mobile First, depois para desktop.
 Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 
 
-link: file:///C:/Users/USER/Desktop/estudos/projetos/responsive-landing-page-headphones/index.html#products
+link: file:///C:/Users/user/OneDrive/%C3%81rea%20de%20Trabalho/responsive-landing-page-headphones/index%20(1).html
  
 
 ![preview](https://github.com/user-attachments/assets/0d13ddcc-1ef9-4987-bada-77ca512229ab)
